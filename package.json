@@ -1,0 +1,15 @@
+{
+  "name": "nodejs-application",
+  "version": "1.0.0",
+  "description": "Creating a containerized version of a simple application using Docker. We will explore the entire process from writing a Docker file to running the container locally, and finally deploying it on a cloud platform like AWS or Azure.",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.21.2"
+  }
+}
